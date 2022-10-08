@@ -22,13 +22,16 @@ class RandomNumber{
     }
 
     public String isCorrectNumber(){
-        System.out.println(this.number);
-        if(this.number == this.input){
-            setCounter(0);
-            right = true;
-            return "Correct!";
-        }
         setCounter(counter+1);
+        // System.out.println(this.number);
+        if(this.number == this.input){
+            right = true;
+            return "Correct! it was "+ number + "\nIt took you " + getCounter() + " guesses to guess it right.";
+        } else if(this.number > this.input){
+            return "Too Low";
+        } else if (this.number < this.input) {
+            return "Too High";
+        }
         right = false;
         return "Try again!";
     }
@@ -51,9 +54,10 @@ public class game_guess_number
 
             randomNumber.takeUserInput(a);
 
-            System.out.println("Number of guesses: "+ randomNumber.getCounter());
+            // System.out.println("Number of guesses: "+ randomNumber.getCounter());
+
+            System.out.println(randomNumber.isCorrectNumber());
         }
-        System.out.println(randomNumber.isCorrectNumber());
 
     }
 }

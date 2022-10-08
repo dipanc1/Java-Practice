@@ -48,37 +48,37 @@
       <command value="hello" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.inheritance">
-    <configuration name="game_guess_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="game_guess_number" />
+  <component name="RunManager" selected="Application.abstract_class_and_interfaces">
+    <configuration name="abstract_class_and_interfaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abstract_class_and_interfaces" />
       <module name="firstProj" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="get_set_modify" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="get_set_modify" />
+    <configuration name="circle_cylinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="circle_cylinder" />
       <module name="firstProj" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="inheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritance" />
+    <configuration name="library (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="library" />
       <module name="firstProj" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java_prac_questions_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_prac_questions_1" />
+    <configuration name="library (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="library" />
       <module name="firstProj" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="oops_basic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops_basic" />
+    <configuration name="library (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="library" />
       <module name="firstProj" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.inheritance" />
-        <item itemvalue="Application.game_guess_number" />
-        <item itemvalue="Application.get_set_modify" />
-        <item itemvalue="Application.oops_basic" />
-        <item itemvalue="Application.java_prac_questions_1" />
+        <item itemvalue="Application.abstract_class_and_interfaces" />
+        <item itemvalue="Application.circle_cylinder" />
+        <item itemvalue="Application.library (4)" />
+        <item itemvalue="Application.library (3)" />
+        <item itemvalue="Application.library (2)" />
       </list>
     </recent_temporary>
   </component>
